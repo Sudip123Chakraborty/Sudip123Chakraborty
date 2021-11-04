@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sudip123Chakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="Sudip123Chakraborty" /> </p>
 
 - 🔭 I’m currently a Final year undergraduate student at [Indian Institute of Technology, Kharagpur](http://www.iitkgp.ac.in/)
-- 🌱 I’ve done my intrnship at [Zomato org](https://www.zomato.com/)
+- 🌱 I’ve done my intrnship at [Zomato org](https://www.zomato.com/) in the Machine Learning team
 - 👯 I’m passionate coder, love problem solving and competitive programming
 - 💬 Ask me about Machine Learning,Data Structer,Algorithm
 - 📫 How to reach me: sudipchakiitkgp@gmail.com
