@@ -1,16 +1,37 @@
-### Hi there 👋
+### Hi Sudip this side 👋
 
-<!--
-**Sudip123Chakraborty/Sudip123Chakraborty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sudip123Chakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="Sudip123Chakraborty" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently a Final year undergraduate student at [Indian Institute of Technology, Kharagpur](http://www.iitkgp.ac.in/)
+- 🌱 I’ve done my intrnship at [Zomato org](https://www.zomato.com/)
+- 👯 I’m passionate coder, love problem solving and competitive programming
+- 💬 Ask me about Machine Learning,Data Structer,Algorithm
+- 📫 How to reach me: sudipchakiitkgp@gmail.com
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=Sudip123Chakraborty&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+<br/>
+<br/>
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="C" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+<img align="left" alt="cplusplus"  src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" width="40" height="40">
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"    
+  />
+  
+  <br/> <br/>  <br/>
+  <br/>
+```
+Programming Languages: C, C++, Python 
+Software and Tools: ELK Stack, Git, Postman, Jupyter
+Framework and Libraries: Pandas, NumPy, Matplotlib, OpenCV, Seaborn, STL, Conda, Scikit-learn, Tensorflow, NLTK
+Familiar With: Tableau, SQL, SolidWorks, AWS, Shell Scripting, LaTeX, MLflow, Snap
+  
+ ```
+  
