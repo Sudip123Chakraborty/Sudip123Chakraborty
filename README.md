@@ -5,7 +5,7 @@
 - 🔭 I’m a Graduate student at [Indian Institute of Technology, Kharagpur](http://www.iitkgp.ac.in/)
 - 🌱 I’ve done my intrnship at [Zomato org](https://www.zomato.com/) in the Machine Learning team
 - 👯 I’m a passionate coder, love problem solving and competitive programming
-- 💬 Ask me about Machine Learning,Data Structer,Algorithm
+- 💬 Ask me about Machine Learning,Data Structure,Algorithm
 - 📫 How to reach me: sudipchakiitkgp@gmail.com
 <br/>
 <br/>
