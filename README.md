@@ -5,7 +5,7 @@
 - 🔭 I’m a Graduate student at [Indian Institute of Technology, Kharagpur](http://www.iitkgp.ac.in/)
 - 🌱 I’ve done my intrnship at [Zomato org](https://www.zomato.com/) in the Machine Learning team
 - 👯 I’m a passionate coder, love problem solving and competitive programming
-- Achieved Global Rank of 72 in [Google Kickstart, Round D](https://www.linkedin.com/in/sudipchakraborty-iitkgp/overlay/1635472178605/single-media-viewer/), 2021 
+- Achieved Global Rank of 72 in [Google Kickstart, Round D](https://www.linkedin.com/in/sudipchakraborty-iitkgp/overlay/1635472178605/single-media-viewer/), 2021, among ~11k Global Participant 
 - 💬 Ask me about Machine Learning,Data Structure,Algorithm
 - 📫 How to reach me: sudipchakiitkgp@gmail.com
 - Please look our researchpaper in your free time: [Knowledge-Aware Neural Networks for Medical Forum Question Classification](https://dl.acm.org/doi/abs/10.1145/3459637.3482128)
