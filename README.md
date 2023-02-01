@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudip10028&label=Profile%20views&color=0e75b6&style=flat" alt="sudip10028" /> </p>
 
 - 🔭 I’m a Graduate student at [Indian Institute of Technology, Kharagpur](http://www.iitkgp.ac.in/)
-- 🌱 I’ve done my intrnship at [Zomato org](https://www.zomato.com/) in the Machine Learning team
+- 🌱 I’ve done my internship at [Zomato org](https://www.zomato.com/) in the Machine Learning team
 - 👯 I’m a passionate coder, love problem solving and competitive programming
 - Achieved Global Rank of 72 in [Google Kickstart, Round D](https://www.linkedin.com/in/sudipchakraborty-iitkgp/overlay/1635472178605/single-media-viewer/), 2021, among ~11k Global Participant 
 - 💬 Ask me about Machine Learning,Data Structure,Algorithm
