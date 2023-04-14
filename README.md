@@ -12,7 +12,7 @@
 <br/>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sudip&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=sudip10028&count_private=true&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <br/>
 <br/>
@@ -36,4 +36,4 @@ Framework and Libraries: Pandas, NumPy, Matplotlib, OpenCV, Seaborn, STL, Conda,
 Familiar With: Tableau, SQL, SolidWorks, AWS, Shell Scripting, LaTeX, MLflow, Snap
   
  ```
-  
+ 
