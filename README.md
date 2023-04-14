@@ -9,14 +9,8 @@
 - 💬 Ask me about Machine Learning,Data Structure,Algorithm
 - 📫 How to reach me: sudipchakiitkgp@gmail.com
 - Please look our researchpaper in your free time: [Knowledge-Aware Neural Networks for Medical Forum Question Classification](https://dl.acm.org/doi/abs/10.1145/3459637.3482128)
-<br/>
-<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sudip10028&count_private=true&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
-<br/>
-<br/>
-
+---
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -36,4 +30,5 @@ Framework and Libraries: Pandas, NumPy, Matplotlib, OpenCV, Seaborn, STL, Conda,
 Familiar With: Tableau, SQL, SolidWorks, AWS, Shell Scripting, LaTeX, MLflow, Snap
   
  ```
- 
+ ---
+<img src="https://github-readme-stats.vercel.app/api?username=sudip10028&count_private=true&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
